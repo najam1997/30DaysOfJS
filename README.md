@@ -6,15 +6,27 @@ A repository for learning JS to understand Client-Side code.
    ❌ : Incomplete  
    ⭕ : In progress  
 
-- [✔️] Practiced JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Practiced JS Further on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Array problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Started Practicing JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Practiced JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Practiced JS Further on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Array problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Started Practicing JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [⭕]
+### Days:
+Topic: **Closures**      
+
+   **1.** [✔️] Solved Problem 1 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).    
+   **2.** [✔️] Solved Problem 2 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **3.** [✔️] Solved Problem 3 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **4.** [✔️] Solved Problem 4 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).  
+   
+   Topic: **Basic Array Transformations**   
+   
+   **5.** [✔️] Solved Problem 5 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **6.** [✔️] Solved Problem 6 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **7.** [✔️] Solved Problem 7 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   
+   Topic: **Function Transformations**   
+   
+   **8.** [✔️] Solved Problem 8 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **9.** [✔️] Solved Problem 9 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **10.** [✔️] Solved Problem 10 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **11.** [✔️] Solved Problem 11 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   
+   Topic: **Promises and Time**   
+   
+   **12.** [⭕]
