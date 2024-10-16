@@ -31,3 +31,4 @@ Topic: **Closures**
    
    **12.** [✔️] Solved Problem 12 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
    **13.** [⭕] Solved Problem 13 of JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).   
+   **14.** [⭕]
